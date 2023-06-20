@@ -1,0 +1,17 @@
+img{
+    width: 400px;
+}
+.container{
+    max-width: 900px;
+}
+#imagen-principal{
+    width: 400px;
+}
+.creditos{
+    text-decoration: none;
+    color: white;
+}
+.creditos a{
+    text-decoration: none;
+    color: white;
+}
